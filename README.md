@@ -1,7 +1,7 @@
 <h1>Hi, I'm Darian!
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- [Active Directory Home Lab](https://github.com/darianveliu/LABURL)
+- [Active Directory Home Lab](https://github.com/darianvel/ActiveDirectoryLab)
   
  
 
